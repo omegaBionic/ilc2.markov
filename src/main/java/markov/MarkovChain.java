@@ -5,6 +5,12 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
 
+/**
+ * This class is used for MarkovChain
+ * This class generates chains
+ *
+ * @author omega
+ */
 public class MarkovChain {
 	
 	/** Markov chain ngram parameter (contiguous sequence of words) */
