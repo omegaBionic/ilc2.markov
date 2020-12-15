@@ -7,6 +7,14 @@ import java.nio.file.Paths;
 
 import markov.MarkovChain;
 
+/**
+ * This class is used for MarkovApp
+ *
+ * Input: readFileAsString
+ * Output: markov.generateMarkov
+ *
+ * @author omega
+ */
 public class MarkovApp {
 	
 	public static void main(String[] args) throws Exception {
