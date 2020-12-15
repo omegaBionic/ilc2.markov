@@ -47,11 +47,11 @@ Hereafter, for each classes give function to be tested. Remember that all functi
 | :------------ | :-------------: | :------------- |
 | read  | T | Need test |
 | learnWord  | T | Need test |
-| renforceWord  | T | Need test |
-| containsKeyWord  | T | Need test |
-| getLearnedWord  | T | Need test |
-| getKeyWord  | T | Need test |
-| keyWordSize  | T | Need test |
+| renforceWord  | D | Need test |
+| containsKeyWord  | D | Need test |
+| getLearnedWord  | D | Need test |
+| getKeyWord  | D | Need test |
+| keyWordSize  | D | Need test |
 
 ## Functions to test now
 
