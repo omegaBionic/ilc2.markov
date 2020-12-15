@@ -10,7 +10,7 @@ import markov.MarkovChain;
 public class MarkovApp {
 	
 	public static void main(String[] args) throws Exception {
-        String sentences = readFileAsString("./target/VictorHugo_LesMiserables-II-Cosette.txt");
+        String sentences = readFileAsString("./src/main/resources/VictorHugo_LesMiserables-II-Cosette.txt");
         System.out.println(sentences);
         
         MarkovChain markov = new MarkovChain(3);
